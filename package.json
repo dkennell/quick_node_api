@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dkennell/quick_node_api/issues"
   },
-  "homepage": "https://github.com/dkennell/quick_node_api#readme"
+  "homepage": "https://github.com/dkennell/quick_node_api#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.1"
+  }
 }
